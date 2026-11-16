@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- crochet de cintre doré -->
+    <path android:strokeColor="#EBC86B" android:strokeWidth="2.6" android:strokeLineCap="round"
+        android:pathData="M54,33 L54,29 C54,26 58,25.5 58,22.5 C58,20 56,18.5 54,18.5 C52,18.5 50,20 50,22" />
+    <!-- cristal -->
+    <path android:fillColor="#CFEFFF" android:pathData="M54,33 L68,50 L54,52 L40,50 Z" />
+    <path android:fillColor="#7FD4FF" android:pathData="M40,50 L54,52 L54,88 Z" />
+    <path android:fillColor="#3A8DDB" android:pathData="M68,50 L54,52 L54,88 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="1" android:strokeAlpha="0.7"
+        android:pathData="M54,33 L68,50 L54,88 L40,50 Z" />
+</vector>
